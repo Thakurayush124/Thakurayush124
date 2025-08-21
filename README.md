@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I enjoy reading technology blogs and have an impressive track record in professional taekwondo, having won three medals for my club.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-thakur-542bb4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-thakur-542bb4202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushthakur124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushthakur124" height="30" width="40" /></a>
