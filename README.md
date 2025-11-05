@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thakurayush124/image/main/Your%20paragraph%20text%20(1).gif
+  <img src="https://jumpshare.com/s/6YGpjZsvCMWgjTYMSlDg
 " width="100%" />
 </div>
 <h3 align="center">A passionate fullstack developer from India</h3>
