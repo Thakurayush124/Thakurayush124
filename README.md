@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://jumpshare.com/s/6YGpjZsvCMWgjTYMSlDg
+  <img src="https://res.cloudinary.com/diifnmvza/image/upload/v1762363082/Your_paragraph_text_qyikdc.gif
 " width="100%" />
 </div>
 <h3 align="center">A passionate fullstack developer from India</h3>
