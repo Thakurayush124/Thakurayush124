@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Thakur</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thakurayush124/image/main/Your%20paragraph%20text%20(1).gif
+" width="100%" />
+</div>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [MedPal](https://github.com/Shashwat-Darshan/MedPal)
